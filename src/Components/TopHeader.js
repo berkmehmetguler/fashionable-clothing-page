@@ -22,7 +22,7 @@ export default function Header() {
               className="wp-number text-light mx-4"
             >
               <SiWhatsapp className="pb-1 me-2 fs-5" />
-              +90 555 555 55 55
+              +905459268577
             </a>
             <a
               href="https://www.instagram.com/torinowholesale/"
